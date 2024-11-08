@@ -42,4 +42,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhu1702&" alt="prabhu1702" /></p>
 
-[![An image of @prabhu1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhu1702)](https://holopin.io/@prabhu1702)
+<h3 align="left">My Holopin Badges:</h3>
+<p align="center">
+  <a href="https://holopin.io/@prabhu1702">
+    <img src="https://holopin.me/prabhu1702" alt="An image of @prabhu1702's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
